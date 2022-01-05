@@ -6,7 +6,7 @@ Hi, I’m Mario (@eridur-de) from **eridur** - the company **where shapes matter
 
 # 📫 Get in contact
 * mailto:info@eridur.de
-* phone: + 49 157 52130605
+* phone: +49 157 52130605
 * address: eridur (Tauscher, Daniel & Voigt, Mario GbR), Schiersandstr. 21, 09116 Chemnitz, Germany
 * github: https://github.com/eridur-de
-* Web: https://www.eridur.de
+* web: https://www.eridur.de
